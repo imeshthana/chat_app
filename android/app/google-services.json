@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "20971835476",
+    "project_id": "flash-chat-d7bad",
+    "storage_bucket": "flash-chat-d7bad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20971835476:android:ab2f4de82aaa6e2c3c1dc1",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXbzhhnw36uxO4YlhbqqSpkGJvaer6o2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20971835476:android:b02616c5c2d3318d3c1dc1",
+        "android_client_info": {
+          "package_name": "com.imesh00.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXbzhhnw36uxO4YlhbqqSpkGJvaer6o2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
